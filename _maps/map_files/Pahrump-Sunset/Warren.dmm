@@ -15100,6 +15100,7 @@
 "oBi" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/table,
+/obj/item/reagent_containers/food/condiment/enzyme,
 /turf/open/floor/plasteel/f13/vault_floor/red/white/whiteredchess/whiteredchess2,
 /area/f13/ncr)
 "oBs" = (
@@ -23902,14 +23903,6 @@
 	icon_state = "darkrustysolid"
 	},
 /area/f13/city)
-"wJs" = (
-/obj/machinery/manned_turret/m2{
-	dir = 8
-	},
-/turf/open/floor/f13{
-	icon_state = "darkdirtysolid"
-	},
-/area/f13/ncr)
 "wJt" = (
 /obj/structure/flora/rock/jungle,
 /turf/open/indestructible/ground/outside/water,
@@ -48307,9 +48300,9 @@ cEs
 cEs
 cEs
 cEs
-xTH
-xTH
-xTH
+cEs
+cEs
+cEs
 cEs
 cEs
 hRW
@@ -48565,7 +48558,7 @@ xAc
 aLn
 xTH
 xTH
-wJs
+xTH
 xTH
 xTH
 aLn
@@ -62894,7 +62887,7 @@ uUt
 vBs
 aEE
 anJ
-pLS
+qZx
 pLS
 pLS
 pLS
@@ -63151,7 +63144,7 @@ vBs
 vBs
 qdg
 anJ
-pLS
+qZx
 pLS
 pLS
 pLS
@@ -63408,7 +63401,7 @@ fNq
 fuI
 pLv
 anJ
-pLS
+qZx
 pLS
 pLS
 qZx
@@ -63665,7 +63658,7 @@ sCr
 vBs
 kfN
 anJ
-pLS
+qZx
 qZx
 qZx
 qZx

@@ -47,6 +47,11 @@
 	icon_state = "labor"
 	desc = "A heavy leather apron designed for protecting the user when metalforging and help carry some minor tools."
 
+/obj/item/clothing/neck/apron/labor/forge/khan
+	name = "smith apron"
+	icon_state = "labor"
+	desc = "A heavy leather apron designed for protecting the user when metalforging and help carry some minor tools."
+
 /obj/item/clothing/neck/apron/housewife
 	name = "50s housewife apron"
 	desc = "A cutesy pink checkerboard apron. The pattern is inspired by ancient commercial billboards. Some kitchen equipment can be stored in its pocket."
